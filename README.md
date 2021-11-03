@@ -10,6 +10,14 @@ This repository is a place to share my code and notebooks for numerous data scie
 * Predictive Modeling
 * Regression Model
 
+
+## Need of Project
+* Data exploration / Descriptive statistics
+* Data processing / Cleaning
+* Statistical modeling
+* Writeup/reporting
+
+
 ## Technologies
 * Python
 * Pandas
@@ -20,10 +28,3 @@ This repository is a place to share my code and notebooks for numerous data scie
 * sklearn
 * GradientBoosting
 * etc
-
-
-## Need of Project
-* Data exploration / Descriptive statistics
-* Data processing / Cleaning
-* Statistical modeling
-* Writeup/reporting
